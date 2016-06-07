@@ -1,11 +1,19 @@
 {
   "name": "ramneet",
   "version": "1.0.0",
-  "description": "\"mysql self made connection code\"",
+  "description": "mode and mongodb connectivity",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramneet16/mysqlramneet.git"
+  },
   "author": "Ramneet Singh Dua",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramneet16/mysqlramneet/issues"
+  },
+  "homepage": "https://github.com/ramneet16/mysqlramneet#readme"
 }
